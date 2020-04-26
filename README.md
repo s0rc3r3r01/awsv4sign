@@ -51,4 +51,4 @@ const ENDPOINT = "dynamodb.us-west-1.amazonaws.com";
 ```
 
 # References
-The library is a simplied and forked version from: https://gist.github.com/MStoykov/38cc1293daa9080b11e26053589a6865 
+The library is a simplified and forked version from: https://gist.github.com/MStoykov/38cc1293daa9080b11e26053589a6865 
