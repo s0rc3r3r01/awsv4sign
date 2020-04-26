@@ -8,7 +8,7 @@ This resource is also useful when needed to parallelize requests with a high num
 
 Example utilization:
 
-```
+```javascript
 import awsv4sign from "./awsv4sign.js";
 
 const AWSCREDENTIALS = {
