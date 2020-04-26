@@ -1,6 +1,8 @@
 # awsv4sign
 API calls to AWS resources need to be signed with [AWS V4 Signature](https://docs.aws.amazon.com/general/latest/gr/signature-version-4.html). 
+
 This is a small library for [K6](https://k6.io/) to sign AWS V4 HTTP requests. 
+
 The library, uses K6's native Go library rather than Javascript (browserifed) version of the documentation resulting in signifincatly higher speed (various orders of magnitude).
 
 This resource is also useful when needed to parallelize requests with a high number of VUs
